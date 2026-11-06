@@ -1,0 +1,14 @@
+{
+  "title": "GuideHollow",
+  "slug": "json-csv",
+  "section": "JSON 배열과 CSV 바꾸기",
+  "hero": "JSON 배열과 CSV 바꾸기",
+  "description": "같은 키의 단순 객체 배열을 표로 바꾸거나 CSV의 모든 셀을 JSON 문자열 값으로 저장합니다. JSON 숫자·불리언 자료형은 CSV에서 보존되지 않습니다.",
+  "pageTitle": "JSON 배열과 CSV 바꾸기 | GuideHollow",
+  "url": "https://json-csv.guidehollow.com/",
+  "accent": "#17684f",
+  "launchReady": true,
+  "adsReady": false,
+  "coupangEnabled": true,
+  "utilityEnabled": true
+}
